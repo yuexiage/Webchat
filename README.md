@@ -9,8 +9,9 @@
 - [x] 授权完毕，点击“确认扫描后点击此处”连接，可获得返回的好友信息。
 - [x] 本程序只提供一个思路，具体需要用到自己业务流程中的方法，还需要自己修改。
 ### 目录
-├── Readme.md                   // help<br>
-├── index.php                   // 入库文件<br>
-├── lib                         // 方法<br>
-│   ├── curlRequest.php         // curl模拟请求方法<br>
-│   ├── wxgetcontact.php        // 获取好友实现方法<br>
+'''php
+├── Readme.md                   // help
+├── index.php                   // 入库文件
+├── lib                         // 方法
+│   ├── curlRequest.php         // curl模拟请求方法
+│   ├── wxgetcontact.php        // 获取好友实现方法
